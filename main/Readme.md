@@ -1,4 +1,4 @@
-You can find all the code for the `main analysis` here.
+You can find all the codes for the `main analysis` here.
 
 Each ipynb has corresponding instructions.
 
