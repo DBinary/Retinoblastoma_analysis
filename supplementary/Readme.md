@@ -1,3 +1,3 @@
-You can find all the code for the main image here
+You can find all the code for the main image here.
 
-Each ipynb has corresponding instructions
+Each ipynb has corresponding instructions.
